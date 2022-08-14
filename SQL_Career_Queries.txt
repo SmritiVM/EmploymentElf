@@ -1,0 +1,19 @@
+create database career;
+
+use career; 
+
+create table login
+(Name varchar(50),
+Age int(2),
+Sex char(1),
+Email_Id varchar(50),
+Password varchar(50),
+Cat1 decimal,
+Cat2 decimal,
+Cat3 decimal,
+Cat4 decimal,
+Cat5 decimal,
+Cat6 decimal,
+Cat7 decimal,
+Cat8 decimal,
+Feedback varchar(1000));
